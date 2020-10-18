@@ -55,5 +55,6 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Rifki Saputra](https://github.com/Rifky123405)
 - [Ahmad Andika](https://github.com/ahmdaka06)
 - [LeonardoRoccaH](https://github.com/LeonardoRoccaH)
+- [Vina Compson](https://github.com/vamisola)
 - [Raffly Pohan](https://github.com/rafflypohan)
 - [Harpreet Singh](https://github.com/harpreetsingh9)
