@@ -6,6 +6,7 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 
 ## Hi! I'm a contributor. Put yout name here!
 
+- [Nimish Sriv](https://github.com/nimishh7)
 - [Putra AR](https://github.com/N1ght420)
 - [Tio](https://github.com/tio000)
 - [PakForlay](https://github.com/PakForlay)
@@ -55,3 +56,5 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Ahmad Andika](https://github.com/ahmdaka06)
 - [LeonardoRoccaH](https://github.com/LeonardoRoccaH)
 - [Vina Compson](https://github.com/vamisola)
+- [Raffly Pohan](https://github.com/rafflypohan)
+- [Harpreet Singh](https://github.com/harpreetsingh9)
