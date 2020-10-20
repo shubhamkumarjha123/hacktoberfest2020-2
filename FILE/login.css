@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("https://m.ayosemarang.com/images-semarang/post/articles/2020/09/19/63950/resep-odading.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.titel{
+    color: rgb(115, 121, 104);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: cornsilk;
+}
+.container{
+    width: 500px;
+    margin: auto;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.form-header{
+    color:  chocolate;
+}
+input[type="text"], input[type="password"], button{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.btn{
+    color: chocolate;
+    background-color: blanchedalmond;
+    padding: 5px;
+    
+}
+
+.btn:hover{
+    background-color: gray;
+}
