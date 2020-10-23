@@ -59,3 +59,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Raffly Pohan](https://github.com/rafflypohan)
 - [Harpreet Singh](https://github.com/harpreetsingh9)
 - [REDMASTER RANGER](https://github.com/redmasterranger)
+- [Husin Assegaff] (https://github.com/husinassegaff)
