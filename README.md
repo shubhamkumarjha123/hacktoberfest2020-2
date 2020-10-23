@@ -58,3 +58,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Vina Compson](https://github.com/vamisola)
 - [Raffly Pohan](https://github.com/rafflypohan)
 - [Harpreet Singh](https://github.com/harpreetsingh9)
+- [REDMASTER RANGER](https://github.com/redmasterranger)
