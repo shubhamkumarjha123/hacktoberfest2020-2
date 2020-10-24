@@ -60,3 +60,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Harpreet Singh](https://github.com/harpreetsingh9)
 - [REDMASTER RANGER](https://github.com/redmasterranger)
 - [Husin Assegaff] (https://github.com/husinassegaff)
+- [Jerry Yan Krismanto](https://github.com/jerry-krismanto)
