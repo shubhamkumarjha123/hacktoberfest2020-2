@@ -61,3 +61,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Husin Assegaff](https://github.com/husinassegaff)
 - [Jerry Yan Krismanto](https://github.com/jerry-krismanto)
 - [Nimish Sriv](https://github.com/nimishh7)
+- [Rizki Wahyu Pratama](https://github.com/haxorsec01)
