@@ -65,3 +65,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Rey Mantovani](https://github.com/rmv48)
 - [Fariki](https://github.com/farikicode)
 - [Arya Arriady](https://github.com/aryaa404)
+- [Rahmat Wijaya](https://github.com/dicktator1)
