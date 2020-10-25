@@ -64,3 +64,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Rizki Wahyu Pratama](https://github.com/haxorsec01)
 - [Rey Mantovani](https://github.com/rmv48)
 - [Fariki](https://github.com/farikicode)
+- [Arya Arriady](https://github.com/aryaa404)
