@@ -66,3 +66,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Fariki](https://github.com/farikicode)
 - [Arya Arriady](https://github.com/aryaa404)
 - [Rahmat Wijaya](https://github.com/dicktator1)
+- [Sailesh D](https://github.com/saileshd14)
