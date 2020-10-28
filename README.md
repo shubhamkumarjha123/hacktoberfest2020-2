@@ -71,3 +71,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Muhammad Maulana](https://github.com/joko7)
 - [Abhishek Kumar Dey](https://github.com/abhishekdey4444)
 - [Smarth Ganguly](https://github.com/SmarthGuy)
+- [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
