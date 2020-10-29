@@ -10,20 +10,31 @@
 
 <body>
     <main>
-        <h1  class="titel">SELAMAT DATANK ODADING!</h1>
+        <h1  class="titel">SILAHKAN LOGIN MAS !</h1>
         <div class="container">
             <div class="form-header">    
                 <h2>Login</h2>
             </div>
             <div class="form-body">
                 <form>
-                    <input type="text" name="username" id="username" placeholder="Masukkan Username anda">
-                    <input type="password" name="password" id="password" placeholder="Masukkan Password anda">
-                    <button type="button" class="btn">Masuk</button>
+                    <input type="text" name="username" id="username" placeholder="Masukkan Username Anda">
+                    <input type="password" name="password" id="password" placeholder="Masukkan Password Anda">
+                    <button type="button" class="btn" onclick=masuk()>Masuk</button>
                 </form>
             </div>
         </div>
     </main>
 </body>
+<script>
+    function masuk(){
+        var u = document.getElementById("username").value;
+        if(u == "") {
+            alert("Username kosong !);
+        }else{
+            alert(u);
+        }
 
+    }
+</script>
+    
 </html>
